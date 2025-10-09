@@ -10,9 +10,6 @@
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)](https://github.com/Mixcoatl666)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Aprende+a+crear+videojuegos+increíbles;Animación+2D+y+Plataformas+2D;¡Bienvenido+al+mundo+del+desarrollo!" alt="Typing SVG" />
-</p>
 
 ---
 
