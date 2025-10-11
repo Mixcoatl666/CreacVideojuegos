@@ -103,7 +103,7 @@ Aquí encontrarás recursos, documentos y videos que te guiarán en el emocionan
 </td>
 <td align="center">
 <a href="https://drive.google.com/file/d/1_7NgSfMhzs2CydD1uV0YBQOzo8CIOG0f/view?usp=drive_link">
-<img src="https://img.shields.io/badge/Video_Tutorial_1-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Tutorial 1"/>
+<img src="https://img.shields.io/badge/Video_Tutorial_1-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Tutorial 2"/>
 </a>
 </td>
 </tr>
