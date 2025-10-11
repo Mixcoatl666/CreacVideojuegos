@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎮 CreacVideojuegos 🕹️
+# 🎮 Creación de Videojuegos 🕹️
 
 ### 🚀 Creación de Videojuegos con Unity
 
@@ -87,6 +87,23 @@ Aquí encontrarás recursos, documentos y videos que te guiarán en el emocionan
 <td align="center">
 <a href="https://docs.google.com/document/d/1XPCITN1ypYQYweglOOn69p7I1S8kGWcG3XzzLocgHNc/edit?usp=sharing">
 <img src="https://img.shields.io/badge/Tutorial_2-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" alt="Tutorial 2"/>
+</a>
+</td>
+</tr>
+</table>
+
+### 🎥 Videos
+
+<table align="center">
+<tr>
+<td align="center">
+<a href="https://drive.google.com/file/d/1N9HoTzu25V7I2RinPCe0kz4vcxC5lLlZ/view?usp=sharing">
+<img src="https://img.shields.io/badge/Video_Tutorial_1-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Tutorial 1"/>
+</a>
+</td>
+<td align="center">
+<a href="https://drive.google.com/file/d/1_7NgSfMhzs2CydD1uV0YBQOzo8CIOG0f/view?usp=drive_link">
+<img src="https://img.shields.io/badge/Video_Tutorial_1-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Tutorial 1"/>
 </a>
 </td>
 </tr>
