@@ -94,6 +94,11 @@ Aquí encontrarás recursos, documentos y videos que te guiarán en el emocionan
 <img src="https://img.shields.io/badge/Tutorial_3-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" alt="Tutorial 3"/>
 </a>
 </td>
+<td align="center">
+<a href="https://docs.google.com/document/d/1LKYxmpKs7DFc69Yf43V4m0_aw5_6qXlwe5Qp_T73BYk/edit?usp=sharing">
+<img src="https://img.shields.io/badge/Tutorial_4-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" alt="Tutorial 3"/>
+</a>
+</td>
 </tr>
 </table>
 
@@ -114,6 +119,11 @@ Aquí encontrarás recursos, documentos y videos que te guiarán en el emocionan
 <td align="center">
 <a href="https://drive.google.com/file/d/1oMmjWmmNtY3_f8mWjzjcsJ51IRKlUmLV/view?usp=sharing">
 <img src="https://img.shields.io/badge/Video_Tutorial_3-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Tutorial 3"/>
+</a>
+</td>
+<td align="center">
+<a href="https://drive.google.com/file/d/1ox7e2bagfww9TVblN5VwlKzyxvH8mH9e/view?usp=sharing">
+<img src="https://img.shields.io/badge/Video_Tutorial_4-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Tutorial 3"/>
 </a>
 </td>
 </tr>
