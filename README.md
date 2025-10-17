@@ -91,7 +91,7 @@ Aquí encontrarás recursos, documentos y videos que te guiarán en el emocionan
 </td>
 <td align="center">
 <a href="https://docs.google.com/document/d/1uPbehWTTstxb3y7nPdt31EoGHPg5Qza-nshstvl1Hxs/edit?usp=sharing">
-<img src="https://img.shields.io/badge/Tutorial_2-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" alt="Tutorial 3"/>
+<img src="https://img.shields.io/badge/Tutorial_3-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" alt="Tutorial 3"/>
 </a>
 </td>
 </tr>
@@ -108,12 +108,12 @@ Aquí encontrarás recursos, documentos y videos que te guiarán en el emocionan
 </td>
 <td align="center">
 <a href="https://drive.google.com/file/d/1_7NgSfMhzs2CydD1uV0YBQOzo8CIOG0f/view?usp=drive_link">
-<img src="https://img.shields.io/badge/Video_Tutorial_1-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Tutorial 2"/>
+<img src="https://img.shields.io/badge/Video_Tutorial_2-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Tutorial 2"/>
 </a>
 </td>
 <td align="center">
 <a href="https://drive.google.com/file/d/1oMmjWmmNtY3_f8mWjzjcsJ51IRKlUmLV/view?usp=sharing">
-<img src="https://img.shields.io/badge/Video_Tutorial_1-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Tutorial 3"/>
+<img src="https://img.shields.io/badge/Video_Tutorial_3-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Tutorial 3"/>
 </a>
 </td>
 </tr>
