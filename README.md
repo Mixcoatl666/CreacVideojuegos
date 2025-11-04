@@ -8,8 +8,7 @@
 
 [![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)](https://github.com/Mixcoatl666)
-
+[![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=for-the-badge)](https://github.com/Mixcoatl666)
 
 ---
 
@@ -40,7 +39,7 @@ Aquí encontrarás recursos, documentos y videos que te guiarán en el emocionan
 ## ✨ Animación 2D
 
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDR4ZGp5bzRxYnF0N3N5cTBpbmZoYnZqeGx3cWV4aWVyZ3V6cGN6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" alt="2D Animation"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDR4ZGp5bzRxYnF0N3N5cTBpbmZoYnZqeGx3cWV4aWVyZ3V6cGN6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" alt="[...]">
 </div>
 
 ### 📄 Documentos
@@ -72,7 +71,7 @@ Aquí encontrarás recursos, documentos y videos que te guiarán en el emocionan
 ## 🎯 Plataformas 2D
 
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanBvdGJ5aGJvdDdxN2g0NjR4cXF6MWp5cjJ5eGFyZW5kbzNzaWphbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="2D Platformer"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanBvdGJ5aGJvdDdxN2g0NjR4cXF6MWp5cjJ5eGFyZW5kbzNzaWphbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="[...]">
 </div>
 
 ### 📄 Documentos
@@ -99,6 +98,11 @@ Aquí encontrarás recursos, documentos y videos que te guiarán en el emocionan
 <img src="https://img.shields.io/badge/Tutorial_4-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" alt="Tutorial 3"/>
 </a>
 </td>
+<td align="center">
+<a href="https://docs.google.com/document/d/1ks4_eSF0Nx-lhqtA2T8QoA69g69a5IlxwsBtzyJy19g/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Tutorial_5-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" alt="Tutorial 5"/>
+</a>
+</td>
 </tr>
 </table>
 
@@ -123,7 +127,12 @@ Aquí encontrarás recursos, documentos y videos que te guiarán en el emocionan
 </td>
 <td align="center">
 <a href="https://drive.google.com/file/d/1ox7e2bagfww9TVblN5VwlKzyxvH8mH9e/view?usp=sharing">
-<img src="https://img.shields.io/badge/Video_Tutorial_4-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Tutorial 3"/>
+<img src="https://img.shields.io/badge/Video_Tutorial_4-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Tutorial 4"/>
+</a>
+</td>
+<td align="center">
+<a href="https://drive.google.com/file/d/1c-woaYS5Zc3arWo3C7J2jEAswy8az0jC/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Video_Tutorial_5-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Tutorial 5"/>
 </a>
 </td>
 </tr>
@@ -165,7 +174,7 @@ Aquí encontrarás recursos, documentos y videos que te guiarán en el emocionan
 
 ### 💡 ¡Diviértete creando videojuegos! 🎮
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHp5MnhyNzN5aGlmcWk1Zzd2bGl4eWp4bHZ6N3RxN3I2dzV5cW5kdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Game Development"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHp5MnhyNzN5aGlmcWk1Zzd2bGl4eWp4bHZ6N3RxN3I2dzV5cW5kdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="[...]" />
 
 ---
 
